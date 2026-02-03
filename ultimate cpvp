@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br"> 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cristal pvp Guia</title>
+    <style>
+
+    </style>
+</head>
+<body>
+    <h1 style="color: #8a2be2;font-size: 50px;">Oque e cristal pvp?</h1>
+    <p>Cristal PvP (ou CPvP) é uma técnica avançada de combate no Minecraft, focada em usar Cristais do End para causar explosões massivas, danificando rapidamente armaduras e jogadores. Popularizado em servidores de anarquia (como 2b2t), esse método envolve colocar e detonar cristais instantaneamente, exigindo alta velocidade e o uso de totens da imortalidade para sobreviver. </p>
+    <h2 style="color: #8a2be2;font-size: 40px;">Dtap</h2>
+    <p>"DTap" (Double Tap) no Crystal PvP do Minecraft é uma técnica avançada de combate na 1.16+ onde se atinge o oponente no ar, colocando rapidamente obsidianas e dois cristais nos pés dele, gerando dano explosivo massivo que quase sempre estoura tótens ou elimina o jogador. A técnica exige precisão para colocar a obsidiana atrás/lado e estourar os cristais. </p>
+    <h2 style="color: #8a2be2;font-size: 40px;">Como Executar o DTap (Double Tap):
+</h2>
+<p><strong>Ação</strong>: Hit com espada depois Coloca Obsidiana/Cristal depois Explode depois Coloca novo Cristal instantaneamente enquanto o inimigo ainda recebe dano da primeira explosão.</p>
+<p><strong>Posicionamento:</strong>Coloque blocos de obsidiana nos dois lados e atrás do oponente para maximizar o dano de repulsão vertical.</p>
+<p><strong>Movimentação:</strong>Mova-se em direção ao local onde colocará o cristal antes do hit, e recue enquanto coloca e detona o cristal para tornar o DTap mais fluido e menos previsível. </p>
+<h2 style="color: #8a2be2;font-size: 40px;">Otimização:</h2>
+<p> Utilize clientes que melhorem o desempenho, como Feather ou Modrinth, e otimizadores de cristal (Marlowww's crystal optimizer).</p>
+<a href="videos_tutoriais.html" style="color: #ff4500;font-size: 30px;">Videos e tutoriais</a><br>
+<h1>básico</h1>
+    <h2>D TAP : consiste em dar um hit por uma obsidian e dois crystals</h2>
+    <video width="250px" controls>
+        <source src="https://cdn.discordapp.com/attachments/1460720544478400563/1460723066844872849/Replay_2026-01-13_16-50-52.mp4?ex=6982fa9e&is=6981a91e&hm=413c9bec0d95ed7b97aa5147c166e809327dbbe94e180614eca10f0b522d7455&" type="video/mp4">
+
+    </video>
+    <br><h2>comportamento da anchor:</h2>
+    <video width="250px" controls>
+        <source src="https://cdn.discordapp.com/attachments/1460720544478400563/1460723446911864945/Replay_2026-01-13_16-52-58.mp4?ex=6982faf8&is=6981a978&hm=6d9067ac8bebfd64249d6d648e5f49049e8c4ca51bc7539535271332e5dad6d7&" type="video/mp4">
+    </video>
+    <br>
+    <h2>pearl flashing: jogar ender pearl quase no mesmo momento do hit (tipo jump reset)</h2>
+    <video width="250px" controls>
+        <source src="https://cdn.discordapp.com/attachments/1460720544478400563/1460725049614143681/Replay_2026-01-13_16-57-28.mp4?ex=6982fc76&is=6981aaf6&hm=f79b972e7b537999f51a8c5e6f45033213656a553b8b75eb22248110e2acd037&" type="video/mp4">
+    </video>
+    <br>
+    <h2>safe anchor: ative a anchor logo em seguida coloque outra glowstone se defendendo</h2>
+    <video width="250px" controls>
+        <source src="https://cdn.discordapp.com/attachments/1460720544478400563/1460726675917635654/Replay_2026-01-13_17-04-54.mp4?ex=6982fdfa&is=6981ac7a&hm=ad09d526d666b98be9a81a747a055daa3f650d4764e88793aeaf2f7438a54d1f&" type="video/mp4">
+    </video>
+    <br>
+    <h2>Nunca faça anchors no seu pé. Normalmente, utilize a uma distância de 2 a 3 blocos.</h2>
+        <h1>keybinds</h1>
+    <br>
+    <h2>É recomendado sempre fazer sua própria keybind</h2><br>
+    <h2>Mas, na verdade, você pode pegar como exemplo alguns players famosos de HT1 até lt2. A maioria dos pro players utiliza as seguintes combinações para anchor: 4 e 5, 3 e 4, ou C e V.
+Então, é recomendado utilizar uma dessas como base e adaptar ao que ficar mais confortável para você.
+ex:</h2><br>
+<h2>k1rbe HT1</h2><br>
+<img src="https://cdn.discordapp.com/attachments/1460824556875812864/1460845051080085555/image.png?ex=69836c39&is=69821ab9&hm=ff71eff6cf0ddef75df36341573f9f2b86aa2895e33088f5a315563d569fe6ea&">
+<h2>kylazkykyLT2</h2>
+<img src="https://cdn.discordapp.com/attachments/1460824556875812864/1460845331829887177/image.png?ex=69836c7c&is=69821afc&hm=ecdd3db5d257fb1f2748c12ef7f12929ff70761acf2725b4e58732add27959f0&">
+    <h1>recomendações</h1>
+  <h2>Eu recomendo que você sempre tenha uma bind confortável, que se encaixe no seu padrão e permita dar D-taps e fazer suas anchors com facilidade. Não se limite ao click normal; tente, por exemplo, o butterfly click ou o jitter click.</h2>
+  <h2>Exemplo: eu faço anchor no c e v, e o meu cristal fica no 2 e minha obsidian no 3 totem no r. Para mim, isso facilita muito fazer spam anchor e safe anchor. Já no cristal, consigo dar D-tap tanto para a esquerda quanto para a direita. </h2>
+  <h2>Jogo Clean</h2>  
+  <p>Nunca deixe seu jogo exagerado, com muitas coisas na tela. Evite itens desnecessários, como mods que adicionam informações ou elementos que não são realmente necessários.
+ex de jogo:
+(Ignorem o scoreboard é do proprio mapa do theobald)</p>
+<img  width="50%" height="50%" src="https://cdn.discordapp.com/attachments/1460819870504452218/1462641478579912826/image.png?ex=69835dc7&is=69820c47&hm=fcf9af4acb107d51d095449b5f50f6af36bdb7dac67a5c7b67da437dc1aa7d2b&"
+br>
+<h2>Deixar o jogo poluído pode atrapalhar sua visão durante a gameplay.</h2>
+    <h1>Treinos</h1>
+    <br>
+    <h2>Treino de DTap 30 minutos por dia</h2>
+    <br>
+    <h2>Treino de fast anchor 15 minutos</h2>
+    <br>
+    <h2>Treino de pearl flashing 15 minutos</h2>
+    <br>
+    <h2>Treino de safe anchor 15 minutos</h2>
+    <br>
+    <h2>Se você fizer isso todo os dias ira melhorar muito</h2>
+        <h1>Tutoriais e explicações Drain</h1>
+    <h2>Fake pearl</h2>
+    <video width="250px" controls>
+        <source src="https://cdn.discordapp.com/attachments/1460720223165612195/1460853221890457722/Replay_2026-01-14_01-27-25.mp4?ex=698373d5&is=69822255&hm=5b64af2461a3c9270580b5f4283f2046599a47f502d078709b81a9615def73ef&" type="video/mp4">
+    </video>
+    <br>
+    <p>Hotbar errada</p>
+    <img src="https://cdn.discordapp.com/attachments/1460720223165612195/1460853610861563904/image.png?ex=69837432&is=698222b2&hm=e3700848e3ae5b68b5bbabc79d1a3be1a707541de4e4766bf51832e8354d8bd9&"
+    <br>
+    <p>Hotbar certa</p>
+    <img src="https://cdn.discordapp.com/attachments/1460720223165612195/1460853712720236769/image.png?ex=6983744a&is=698222ca&hm=41c08bbdbf508fbd93ec46b3a005b3e3f734654299b04ffd6e5d861eb5abbfe0&"
+    <p>priorize seus utilitarios em alguns momentos</p><br>
+    <p>quando seu inimigo der uma ender pearl para se aproximar, exploda uma anchor logo em seguida jogue uma ender pearl e estoure crystals</p>
+    <video width="250px" controls>
+        <source src="https://cdn.discordapp.com/attachments/1460720223165612195/1460856557729349725/Replay_2026-01-14_01-39-18.mp4?ex=698376f0&is=69822570&hm=7a600604d3086395e9aea51fbeb5a49b3f50a86b6ea0053cbd5ca249b6be9c33&" type="video/mp4">
+    </video>
+ <h2>sempre mantenha seu openente com queda lenta</h2>
+ <a href="videos_tutoriais.html" style="color: #ff4500;font-size: 30px;">Voltar</a><br>
+ <a href="" style="color: #ff4500;font-size: 30px;">Básico</a><br>
+     <h1>Videos e tutoriais hole com db(double blast protection)</h1>
+    <h2>Single crystal</h2><br>
+
+
+     <video width="250px" controls>
+        <source src="video/Replay_2026-01-13_17-29-08.mp4" type="video/mp4">
+     </video>
+<h2>Hit crystal + anchor</h2><br>
+
+<video width="250px" controls>
+    <source src="video/Replay_2026-01-13_17-31-42.mp4" type="video/mp4">
+</video>
+
+<br>
+<h2>DTap de anchor</h2><br>
+
+<video width="250px" controls>
+    <source src="video/Replay_2026-01-13_17-32-40.mp4" type="video/mp4">
+</video>
+<br><h2>hole sem db (double blast protection)</h2>
+<h2>Triple tap: 2 tipos</h2><br>
+<video width="250px" controls>
+    <source src="video/Replay_2026-01-13_17-09-03.mp4" type="video/mp4">
+</video>
+<video width="250px" controls>
+    <source src="video/Replay_2026-01-13_17-08-24.mp4" type="video/mp4">
+</video>
+<br>
+<h2>combo</h2>
+<video width="250px" controls>
+    <source src="video/Replay_2026-01-13_17-11-15.mp4" type="video/mp4">
+</video>
+<a href="videos_tutoriais.html" style="color: #ff4500;font-size: 30px;">Voltar</a><br>
+<br>
+<a href="" style="color: #ff4500;font-size: 30px;">Drain</a>
+    </html>
